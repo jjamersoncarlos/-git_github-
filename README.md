@@ -1,6 +1,6 @@
 Olá! 
 
-Sou desenvolvedor em formação e estou em transição de carreira para a área de tecnologia.
+Sou [desenvolvedor] em formação e estou em transição de carreira para a área de tecnologia.
 
 Atualmente trabalho com Qualidade e Processos e estudo Desenvolvimento de Software, com foco em:
 
